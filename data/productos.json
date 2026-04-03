@@ -1,10 +1,10 @@
 [
 { "codigo": "211", "nombre": "Eirea City Walk", "precio": 54900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art211.png"] },
 { "codigo": "212", "nombre": "Eirea Soft Urban", "precio": 54900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art212.png"] },
-{ "codigo": "208", "nombre": "Eirea Daily Move", "precio": 54900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art208.png"] },
+{ "codigo": "208", "nombre": "Eirea Daily Move", "precio": 54900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art208.PNG"] },
 
 { "codigo": "1100", "nombre": "Eirea Velvet Coco", "precio": 55000, "material": "GAMUZA", "colores": ["#8B7355", "#000000"], "imagenes": ["img/productos/art1100.png", "img/productos/art1100marron.png"]},
-{ "codigo": "1000", "nombre": "Eirea Dual Contrast", "precio": 55000, "material": "ECO CUERO", "colores": ["#FFFFFF", "#000000"], "imagenes": ["img/productos/art1000 negro.png", "img/productos/art1000blanco.png" ] },
+{ "codigo": "1000", "nombre": "Eirea Dual Contrast", "precio": 55000, "material": "ECO CUERO", "colores": ["#FFFFFF", "#000000"], "imagenes": ["img/productos/art1000negro.PNG", "img/productos/art1000blanco.PNG" ] },
 
 { "codigo": "703", "nombre": "Eirea Urban Edge", "precio": 55900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art703.png"] },
 { "codigo": "777", "nombre": "Eirea Rebel Step", "precio": 55900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art777.png"] },
@@ -13,7 +13,7 @@
 
 { "codigo": "1220", "nombre": "Eirea Contrast Flow", "precio": 55900, "material": "ECO CUERO", "colores": ["#000000", "#C2A27C", "#FFFFFF"], "imagenes": ["img/productos/art1220.png"], "destacado":true },
 
-{ "codigo": "210", "nombre": "Eirea Urban Flex", "precio": 54900, "material": "ECO CUERO", "colores": ["#000000", "#C2A27C"], "imagenes": ["img/productos/art210.png"] },
+{ "codigo": "210", "nombre": "Eirea Urban Flex", "precio": 54900, "material": "ECO CUERO", "colores": ["#000000", "#C2A27C"], "imagenes": ["img/productos/art210.PNG"] },
 
 { "codigo": "1292", "nombre": "Eirea Balance Step", "precio": 56900, "material": "ECO CUERO", "colores": ["#000000", "#C2A27C", "#FFFFFF"], "imagenes": ["img/productos/art1292.png"], "destacado":true },
 
@@ -33,8 +33,8 @@
 { "codigo": "76", "nombre": "Eirea Classic Fit", "precio": 59900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art76.png"] },
 { "codigo": "77", "nombre": "Eirea Everyday Basic", "precio": 59900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art77.png"] },
 { "codigo": "600", "nombre": "Eirea Heavy Step", "precio": 59900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art600.png"] },
-{ "codigo": "611", "nombre": "Eirea Street Force", "precio": 59900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art611.png"] },
-{ "codigo": "622", "nombre": "Eirea Bold Urban", "precio": 59900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art622.png"] },
+{ "codigo": "611", "nombre": "Eirea Street Force", "precio": 59900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art611.PNG"] },
+{ "codigo": "622", "nombre": "Eirea Bold Urban", "precio": 59900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art622.PNG"] },
 
 { "codigo": "AIR", "nombre": "Eirea Air Motion", "precio": 59900, "material": "ECO CUERO", "colores": ["#FFFFFF", "#000000"], "imagenes": ["img/productos/artAIR.png", "img/productos/artAIRblanca.png"] },
 
@@ -46,7 +46,7 @@
 { "codigo": "800", "nombre": "Eirea Power Sole", "precio": 61000, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art800.png"] },
 { "codigo": "801", "nombre": "Eirea Street Core", "precio": 62000, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art801.png"] },
 
-{ "codigo": "83", "nombre": "Eirea Daily Chic", "precio": 65000, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art83.png"], "destacado":true },
+{ "codigo": "83", "nombre": "Eirea Daily Chic", "precio": 65000, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art83.PNG"], "destacado":true },
 { "codigo": "10", "nombre": "Eirea Timeless Walk", "precio": 65900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art10.png"] },
 { "codigo": "80", "nombre": "Eirea Noir Classic", "precio": 65900, "material": "ECO CUERO", "colores": ["#000000"], "imagenes": ["img/productos/art80.png"] },
 

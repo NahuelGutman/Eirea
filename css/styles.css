@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Eyesome';
-    src: url('assets/fonts/eyesome/Eyesome Regular.otf') format('truetype');
+    src: url('/assets/fonts/eyesome/Eyesome-Regular.otf') format('truetype');
 }
 
 :root {
@@ -35,9 +35,9 @@ body {
 }
 
 .logo {
-    font-size: 26px;
+    font-size: 40px;
     text-decoration: none;
-    color: inherit;
+    color: #1A1A1A;
 }
 
 
